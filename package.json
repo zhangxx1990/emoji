@@ -1,5 +1,5 @@
 {
-  "name": "vue-tutorial",
+  "name": "emoji-tutorial",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -15,9 +15,9 @@
     "url": "https://github.com/zhangxx1990/Html5.git"
   },
   "keywords": [
-    "Vue",
-    "Vue.js",
-    "Vue-tutorial"
+    "emoji",
+    "emoji.js",
+    "emoji-tutorial"
   ],
   "author": "",
   "license": "ISC",
