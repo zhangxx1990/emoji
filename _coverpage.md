@@ -1,10 +1,10 @@
 <img src="./media/emoji.png" width="500" alt="">
 
-# 程序员 git commit 时 emoji 使用指南
+> 张修新 <span style="font-size: 16px;"></span>
 
-> 张修新 <span style="font-size: 18px;"></span>
+- 邮箱：zhangxiuxin1990@sina.com
 
-[邮箱]()
-zhangxiuxin@sina.com
-
+[GitHub](https://github.com/zhangxx1990/emoji)
+[博客](https://zhangxiuxin.top)
+[百度脑图](http://naotu.baidu.com/file/3c7b9580afe8f9358ef9299040ecf8a9)
 [Get Started](README)
